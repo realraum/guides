@@ -1,6 +1,8 @@
 name: Build PDF
 
-on: push
+on:
+  push:
+  workflow_dispatch:
 
 jobs:
   refresh:
