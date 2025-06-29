@@ -43,7 +43,7 @@ Drucken mit eigenem Filament kostet 1ct/g.
 
 Gezahlt werden kann:
 
-- in Bar: Spendebox neben dem Drucker
+- in Bar: MKG Spendenbox neben dem Drucker
 - per Überweisung: Kontodaten von mkg auf Nachfrage
 
 ## sicherheitshinweise
