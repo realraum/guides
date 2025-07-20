@@ -11,7 +11,7 @@ Der MK3.5 ist ein Upgrade vom MK3S. Der Drucker ist fast baugleich zum MK4S, bis
   - Ist dadurch langsamer als der MK4S
 - Andere (nicht ganz so genaue) Stepper-Motoren
 
-Bitte [MK4 Instructions](./MK4S.md) lesen. Falls Einschulung zum MK4 und Zugang schon vorhanden, kann der MK3 auch nach dem lesen dieser Anleitung verwendet werden.
+Bitte [MK4 Einführung](./MK4S.md) lesen. Falls Einschulung zum MK4 und Zugang schon vorhanden, kann der MK3 auch nach dem lesen dieser Anleitung verwendet werden.
 
 ## Bed Leveling (!!!WICHTIG!!!)
 - Der Prusa MK3.5 misst beim bed leveling, im gegensatz zum MK4, den Abstand zum printbed induktiv, NICHT zum sheet durch abtasten.
